@@ -392,3 +392,5 @@ int main()
 	return 0;
 }
 
+cout<<iqra
+23-st-005	
